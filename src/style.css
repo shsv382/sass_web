@@ -4,7 +4,15 @@
     box-sizing: border-box;
 }
 
-h1 {
-    color: blue;
+/* .main {
+    border: 1px dashed red;
+}
+
+.main h1 {
+    color: purple;
     padding: 30px;
 }
+
+.main h1 span {
+    color: orange;
+} */
