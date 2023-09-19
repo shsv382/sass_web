@@ -14,6 +14,6 @@
 Перед началом работы нужно запустить npm install
 
 ## Команды:
-_**npm install** - установка необходимых библиотек
-_**npm start** - запуск dev-сервера
-_**npm run build** - сборка проекта для production
+- **npm install** - установка необходимых библиотек
+- **npm start** - запуск dev-сервера
+- **npm run build** - сборка проекта для production
